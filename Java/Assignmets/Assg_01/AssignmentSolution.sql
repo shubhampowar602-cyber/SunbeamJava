@@ -50,3 +50,6 @@ insert into sp values('S5','P3','J4',200);
 insert into sp values('S5','P4','J4',800);
 insert into sp values('S5','P5','J4',400);
 insert into sp values('S5','P6','J4',500);
+
+
+-- completed Database .
